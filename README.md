@@ -1,39 +1,32 @@
 # Real-World Custom GPT Prompts
 
-Welcome to Custom GPT Instructions, a repository hosted by MAGMA INC, showcasing our carefully crafted instructions for specific uses of Generative AI, particularly Custom GPTs.
+This repository contains Custom Instructions for ChatGPT addressing real-world use cases.
 
-## About This Repository
+- **To use them**, simply click on the "Try it" link for each of the Custom GPTs.
+- **To configure them as your own***, copy the block of text from the Inctructions file and paste it into the Custom Instructions in your ChatGPT app.
+- **Non ChatGPT Plus users**, can paste the Inctuctions files as the SYSTEM prompts in the [Open AI Playground]( https://platform.openai.com/playground).
 
-This repository is dedicated to sharing Custom GPT Instructions that demonstrate the capabilities of Generative AI in addressing specific, real-world needs. We begin with two distinct offerings: the CBT Therapist and Employment Contract Advisor Canada.
+## Featured Prompts
 
-## Using the Prompts
+We begin with two distinct offerings: Cognitive Behavioral Therapy (CBT) Coach and Canadian Employment Contract Advisor.
 
-Each file in this repository contains an OpenAI System Prompt, a.k.a. Custom GPT Instructions.
+### Cognitive Behavioral Therapy (CBT) Coach
 
-To use these, just copy the block of text into the Custom Instructions in your ChatGPT app.
+- **Description**: Navigate stress and anxiety with Cognitive Behavioral Therapy (CBT) techniques. This virtual therapist combines empathy and expertise, providing customized exercises for mental health and personal growth.
+- **Instructions**: [CBT Therapist Instructions](url-for-filename1.md)
+- **Try it**: [https://chat.openai.com/g/g-CEBf3i7Q8-cbt-therapist](https://chat.openai.com/g/g-CEBf3i7Q8-cbt-therapist)
 
-### Featured Prompts
+### Canadian Employment Contract Advisor
 
-#### CBT Therapist
-**Description**: "Navigate stress and anxiety with Cognitive Behavioral Therapy (CBT) techniques. This virtual therapist combines empathy and expertise, providing customized exercises for mental health and personal growth."
-**Instructions**: [CBT Therapist Instructions](url-for-filename1.md)
+- **Description**: Specializes in reviewing Canadian employment contracts.
+- **Instructions**: [Employment Contract Advisor Canada Instructions](hyperlink-to-file2.md)
+- **Try it**: [https://chat.openai.com/g/g-cjaC4mXAd-employment-contract-advisor-canada](https://chat.openai.com/g/g-cjaC4mXAd-employment-contract-advisor-canada)
 
-#### Employment Contract Advisor Canada
-**Description**: "Specializes in reviewing Canadian employment contracts."
-**Instructions**: [Employment Contract Advisor Canada Instructions](hyperlink-to-file2.md)
+## Professional Prompt Development
 
-## Learning and Development
+- **New to Generative AI Promting?** If new to the to "Dancing with the GenAI", start by watching David Shapiro's video on [Expert Strategies for Custom Instructions & System Windows](https://www.youtube.com/watch?v=oILYjtbmLgc).
+- **Want to Enhance Your Promting Skills?** First explore Daniel ZivKovic's [Generative AI Mind Maps](https://github.com/dzivkovi/Generative-AI-Mind-Maps), then study some of the prompts in David's repository of [ChatGPT Custom Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions/).
 
-To enhance your prompting skills, explore our Mindmap on effective AI prompting and visit the following resources:
+### Collaboration Invitation
 
-- **Generative AI Mind Maps**: [Generative AI Mind Maps](https://github.com/dzivkovi/Generative-AI-Mind-Maps)
-- **David Shapiro's Repository**: His work has been instrumental in teaching the creation of powerful AI assistants. Visit [ChatGPT Custom Instructions](https://github.com/daveshap/ChatGPT_Custom_Instructions/).
-- **David Shapiro's YouTube Videos**: For in-depth insights into GenAI prompting, check out his videos at [David Shapiro's YouTube](https://www.youtube.com/watch?v=oILYjtbmLgc).
-
-## Collaboration Invitation
-
-We warmly invite collaborations from those passionate about Generative AI, Data, and User Experience. Let's harness our collective knowledge to craft innovative, efficient, and user-centered solutions.
-
-## Join Us
-
-Your participation, feedback, and contributions are vital. Join us in shaping the future of AI prompting and creating impactful AI tools.
+- We warmly invite collaboration from individuals and organizations passionate about the intersection of Generative AI, Data, and User Experience. Let's combine our expertise to create advanced, secure, and user-centric solutions, making the world better for those who follow.
