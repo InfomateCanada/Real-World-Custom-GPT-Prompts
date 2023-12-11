@@ -13,13 +13,13 @@ We begin with two distinct offerings: Cognitive Behavioral Therapy (CBT) Coach a
 ### Cognitive Behavioral Therapy (CBT) Coach
 
 - **Description**: Navigate stress and anxiety with Cognitive Behavioral Therapy (CBT) techniques. This virtual therapist combines empathy and expertise, providing customized exercises for mental health and personal growth.
-- **Instructions**: [CBT Therapist Instructions](url-for-filename1.md)
+- **Instructions**: [CBT Therapist Instructions](CBT_Therapist.md)
 - **Try it**: [https://chat.openai.com/g/g-CEBf3i7Q8-cbt-therapist](https://chat.openai.com/g/g-CEBf3i7Q8-cbt-therapist)
 
 ### Canadian Employment Contract Advisor
 
 - **Description**: Specializes in reviewing Canadian employment contracts.
-- **Instructions**: [Employment Contract Advisor Canada Instructions](hyperlink-to-file2.md)
+- **Instructions**: [Employment Contract Advisor Canada Instructions](Employment_Contract_Advisor_Canada.md)
 - **Try it**: [https://chat.openai.com/g/g-cjaC4mXAd-employment-contract-advisor-canada](https://chat.openai.com/g/g-cjaC4mXAd-employment-contract-advisor-canada)
 
 ## Professional Prompt Development
